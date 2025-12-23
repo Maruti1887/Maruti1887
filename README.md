@@ -50,8 +50,9 @@ Experienced in contributing to open-source projects with **reviewed and merged p
 
 ## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maruti1887&show_icons=true&theme=default&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maruti1887&layout=compact&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maruti1887&show_icons=true&include_all_commits=true&count_private=true&theme=default)
+
+![Contribution Streak](https://streak-stats.demolab.com?user=Maruti1887&theme=default)
 
 ---
 
