@@ -58,7 +58,7 @@ Experienced in contributing to open-source projects with **reviewed and merged p
 ## 📫 Connect
 
 - **GitHub:** https://github.com/Maruti1887  
-- **LinkedIn:** https://www.linkedin.com/in/YOUR_LINK_HERE  
+- **LinkedIn:** (https://www.linkedin.com/in/maruti-hanumanth-naik-b028a8302/) 
 
 ---
 
