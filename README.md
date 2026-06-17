@@ -14,7 +14,7 @@
 
 ## 🎯 About me
 
-> *Final-year → Graduate. VTU B.E. Computer Science (CGPA **8.76/10**).*
+> *Final-year → Graduate. VTU B.E. Computer Science *
 > Currently interning as a Java Full-Stack Developer at **JSpiders, Rajajinagar**.
 > I build scalable, secure, production-ready web applications with real-world integrations.
 
