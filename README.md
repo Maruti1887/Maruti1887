@@ -1,66 +1,113 @@
-# Maruti Hanumanth Naik
-
-🎓 Computer Science Student | 💻 Full-Stack Developer | 🌍 Open-Source Contributor  
-
-I build scalable, real-world software systems with a strong focus on clean code, collaboration, and performance.  
-Experienced in contributing to open-source projects with **reviewed and merged pull requests**.
+<h1 align="center">Maruti Hanumanth Naik</h1>
+<p align="center">
+  <b>Java Full Stack Developer · Spring Boot · Python · REST APIs · VTU CSE '26 Graduate</b><br>
+  <a href="mailto:marutihanumanthnaik@gmail.com">marutihanumanthnaik@gmail.com</a> ·
+  <a href="https://www.linkedin.com/in/maruti-hanumanth-naik-b028a8302/">LinkedIn</a> ·
+  <a href="https://github.com/Maruti1887">GitHub</a>
+</p>
 
 ---
 
-## 🔹 Core Skills
+## 👋 About me
+
+B.E. Computer Science graduate from VTU (CGPA **8.76/10**), currently interning as a Java Full-Stack Developer at JSpiders, Rajajinagar. I build scalable, secure, production-ready web applications with clean code and real-world integrations.
+
+---
+
+## 🛠️ Tech stack
 
 **Languages**
-- C, Python, Java, JavaScript  
-- HTML5, CSS3  
+`Java` `Python` `C` `JavaScript` `HTML5` `CSS3`
 
-**Frameworks & Tools**
-- Flask, Flutter (basic)
-- Git, GitHub, VS Code
-- SQLite, REST APIs
+**Backend**
+`Spring Boot` `Spring MVC` `Hibernate` `JDBC` `Servlets/JSP` `Django` `Flask` `REST APIs`
+
+**Databases**
+`MySQL` `SQLite`
+
+**Tools & DevOps**
+`Git` `GitHub` `Maven` `Docker` `Linux (Ubuntu/RHEL)`
+
+**Core CS**
+`OOP` `DBMS` `Collections Framework` `Multithreading` `Exception Handling` `SDLC` `Agile`
+
+---
+
+## 🚀 Projects
+
+### 🛒 MSN Mart — Full Stack E-Commerce App
+> Java · Spring Boot · Thymeleaf · MySQL · Spring Security · Razorpay · Twilio
+
+Secure authentication, role-based access, shopping cart, Razorpay payment integration, Twilio OTP verification, and email notifications.
+🔗 [GitHub Repo](YOUR_LINK_HERE)
+
+---
+
+### 💰 Expense Tracker — Personal Finance App
+> Python · Django · HTML · CSS
+
+Authentication, database modeling, RESTful CRUD operations — deployed on a Linux environment.
+🔗 [GitHub Repo](YOUR_LINK_HERE)
+
+---
+
+### 🚌 MoveSmart — Real-Time Bus Tracking
+> Python · Django · MySQL · JavaScript · OpenShift / Kubernetes
+
+Crowdsourced bus tracking with real-time API integration, cloud-ready containerized deployment targeting enterprise scale.
+
+---
+
+### 🐟 Flask Fish Selling — Online Vendor Marketplace
+> Python · Flask · SQLite · Docker
+
+Full-stack vendor marketplace with product management and Dockerized deployment.
+🔗 [GitHub](https://github.com/Maruti1887/flaskfishselling)
+
+---
+
+## 💼 Experience
+
+**Java Full-Stack Developer Intern** — JSpiders, Rajajinagar *(Jan 2026 – Present)*
+- Backend modules in Java with OOP principles
+- CRUD operations and SQL query optimization
+- Responsive UI with HTML, CSS, JavaScript
+- Git-based version control in team workflow
+
+**Campus Ambassador** — Google Gemini AI *(Sep – Dec 2025)*
+- Organized workshops and student outreach programs
+- Gathered feedback for Google program improvements
 
 ---
 
 ## 🌍 Open-Source Contributions
 
-- **firstcontributions/first-contributions**  
-  Contributed via a verified pull request following standard Git workflow (fork → branch → PR → merge).
-
-- **github/opensource.guide**  
-  Improved code readability and added clear documentation comments to the HTMLProofer script.  
-  Pull request reviewed, approved, and merged by maintainers.
+- **firstcontributions/first-contributions** — PR merged following standard fork → branch → PR workflow
+- **github/opensource.guide** — Improved HTMLProofer script readability; PR reviewed, approved, and merged by maintainers
 
 ---
 
-## 🚀 Selected Projects
+## 🏅 Certifications
 
-### 🚌 MoveSmart — Hybrid Real-Time Bus Tracking System
-- Designed a crowdsourced bus-tracking system using smartphone sensors and real-time data.
-- Focused on ETA prediction, route matching, and backend processing.
-- **Tech:** Flutter, Python, Cloud Services, Real-Time Data Processing
-
----
-
-### 🐟 Flask Fish Selling System
-- Built a web-based fish selling platform with user and product management.
-- Implemented backend APIs and database integration.
-- **Tech:** Flask, Python, SQLite  
-- 🔗 https://github.com/Maruti1887/flaskfishselling
+- Python — Beginner to Advanced *(GeeksforGeeks)*
+- Machine Learning using Python
+- Cloud Computing — Microsoft Azure
+- Java Full-Stack Development *(JSpiders, offline)*
+- Diploma in MS Office *(Karnataka Computer Academy)*
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maruti1887&show_icons=true&include_all_commits=true&count_private=true&theme=default)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Maruti1887&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maruti1887&layout=compact&theme=default&hide_border=true" height="160"/>
+</p>
 
-![Contribution Streak](https://streak-stats.demolab.com?user=Maruti1887&theme=default)
-
----
-
-## 📫 Connect
-
-- **GitHub:** https://github.com/Maruti1887  
-- **LinkedIn:** (https://www.linkedin.com/in/maruti-hanumanth-naik-b028a8302/) 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Maruti1887&theme=default&hide_border=true"/>
+</p>
 
 ---
 
-> _“Write code that others can read, review, and trust.”_
+> *"Write code that others can read, review, and trust."*
