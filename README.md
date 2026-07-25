@@ -7,6 +7,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Maruti1887&color=FFD200&style=flat-square&label=Profile+Views)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/maruti-hanumanth-naik-b028a8302/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/Maruti1887)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:[your-email@example.com])
 
 </div>
 
@@ -14,9 +15,15 @@
 
 ## 🎯 About me
 
-> *Final-year → Graduate. VTU B.E. Computer Science *
+> *VTU B.E. Computer Science graduate (CGPA 8.76)*
 > Currently interning as a Java Full-Stack Developer at **JSpiders, Rajajinagar**.
 > I build scalable, secure, production-ready web applications with real-world integrations.
+
+- 🔭 Currently working on: **[project name]**
+- 🌱 Currently learning: **[e.g. Microservices with Spring Cloud]**
+- 👯 Looking to collaborate on: **[e.g. open-source Java/Spring projects]**
+- 💬 Ask me about: **Spring Boot, Django, REST API design**
+- 📫 Reach me at: **[your-email@example.com]**
 
 ---
 
@@ -54,16 +61,22 @@
 
 ## 🚀 Projects
 
-| Project | Tech | Description |
-|---------|------|-------------|
-| 🛒 **MSN Mart** | Spring Boot · MySQL · Razorpay · Twilio | Full-stack e-commerce with secure auth, shopping cart, payments & OTP |
-| 🚌 **MoveSmart** | Django · MySQL · JS · Kubernetes | Real-time crowdsourced bus tracking, cloud-ready deployment |
-| 💰 **Expense Tracker** | Django · Python · HTML/CSS | Personal finance app with auth, CRUD, deployed on Linux |
-| 🐟 **Flask Fish Selling** | Flask · SQLite · Docker | Vendor marketplace with Dockerized deployment |
+| Project | Tech | Description | Link |
+|---------|------|-------------|------|
+| 🛒 **MSN Mart** | Spring Boot · MySQL · Razorpay · Twilio | Full-stack e-commerce with secure auth, shopping cart, payments & OTP | [🔗 Repo]([your-repo-link]) |
+| 🚌 **MoveSmart** | Django · MySQL · JS · Kubernetes | Real-time crowdsourced bus tracking, cloud-ready deployment | [🔗 Repo]([your-repo-link]) |
+| 💰 **Expense Tracker** | Django · Python · HTML/CSS | Personal finance app with auth, CRUD, deployed on Linux | [🔗 Repo]([your-repo-link]) |
+| 🐟 **Flask Fish Selling** | Flask · SQLite · Docker | Vendor marketplace with Dockerized deployment | [🔗 Repo]([your-repo-link]) |
 
 ---
 
 ## 💼 Experience
+
+**Java Full-Stack Developer Intern** — JSpiders, Rajajinagar *([start month/year] – Present)*
+- [What you're building / responsibilities — 1–3 bullet points]
+- [Notable contribution or outcome]
+- [Tools/tech used day-to-day]
+
 ---
 
 ## 📊 GitHub stats
@@ -75,6 +88,10 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Maruti1887&theme=radical&hide_border=true&background=0d1117&ring=FFD200&fire=FFD200&currStreakLabel=FFD200"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Maruti1887&theme=radical&no-frame=true&row=1&column=6"/>
 </div>
 
 ---
@@ -93,6 +110,8 @@
 
 *"Write code that others can read, review, and trust."*
 
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maruti-hanumanth-naik-b028a8302/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maruti1887)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[your-email@example.com])
 
 </div>
