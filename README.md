@@ -23,7 +23,7 @@
 - 🌱 Currently learning: **[e.g. Microservices with Spring Cloud]**
 - 👯 Looking to collaborate on: **[e.g. open-source Java/Spring projects]**
 - 💬 Ask me about: **Spring Boot, Django, REST API design**
-- 📫 Reach me at: **[your-email@example.com]**
+- 📫 Reach me at: **marutihanumanthnaik@gmail.com**
 
 ---
 
