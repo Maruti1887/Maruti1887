@@ -17,11 +17,9 @@
 
 > *VTU B.E. Computer Science graduate (CGPA 8.76)*
 > Currently interning as a Java Full-Stack Developer at **JSpiders, Rajajinagar**.
-> I build scalable, secure, production-ready web applications with real-world integrations.
+> I build scalable, secure, production-ready web applications with real-world integrations
 
-- 🔭 Currently working on: **[project name]**
-- 🌱 Currently learning: **[e.g. Microservices with Spring Cloud]**
-- 👯 Looking to collaborate on: **[e.g. open-source Java/Spring projects]**
+
 - 💬 Ask me about: **Spring Boot, Django, REST API design**
 - 📫 Reach me at: **marutihanumanthnaik@gmail.com**
 
